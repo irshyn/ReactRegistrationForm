@@ -1,0 +1,54 @@
+button {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.navbar-style {
+  background-color: #1b2838;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: lightgray;
+}
+
+nav img {
+  margin-right: 1em;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.full-width {
+  width: 100%;
+}
+
+input[type=text].autocomplete-disabled {
+  position: absolute !important;
+  left: -10000px !important;
+  top: -10000px !important;
+}
+
