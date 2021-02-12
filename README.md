@@ -2,7 +2,7 @@
 
 ## Description
 
-React registration form using modals for adding/editing information connected to an ASP.NET Web API back end.
+React registration form using modals to perform CRUD operations on the data obtained from ASP.NET Web API back-end application.
 
 ## Game screenshot
 
